@@ -1,0 +1,25 @@
+h1{
+  font-size: 4em;
+  font-family: 'Eagle Lake', cursive;
+}
+
+body{
+  color: greenyellow;
+  text-align: center;
+  background-image: url("/img/light-bg2.png");
+  
+}
+
+p{
+  font-size: 3em;
+  font-family: 'Eagle Lake', cursive;
+}
+
+.btn{
+  color: white;
+  background-color: purple;
+  padding: 1em;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Eagle Lake', cursive;
+}
